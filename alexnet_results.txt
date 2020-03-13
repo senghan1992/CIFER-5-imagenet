@@ -1,0 +1,21 @@
+running_correct_history(0): 0.612378
+val_running_correct_history(0): 0.810427
+running_correct_history(1): 0.807818
+val_running_correct_history(1): 0.881517
+running_correct_history(2): 0.846906
+val_running_correct_history(2): 0.791469
+running_correct_history(3): 0.879479
+val_running_correct_history(3): 0.834123
+running_correct_history(4): 0.876221
+val_running_correct_history(4): 0.800948
+running_correct_history(5): 0.889251
+val_running_correct_history(5): 0.819905
+running_correct_history(6): 0.900651
+val_running_correct_history(6): 0.834123
+running_correct_history(7): 0.912052
+val_running_correct_history(7): 0.829384
+running_correct_history(8): 0.907166
+val_running_correct_history(8): 0.796209
+running_correct_history(9): 0.910423
+val_running_correct_history(9): 0.815166
+answer: Cars / guess: cars
